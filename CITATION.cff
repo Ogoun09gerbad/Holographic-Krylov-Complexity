@@ -9,7 +9,7 @@ authors:
     # ORCID not found in project files; add here if/when available.
 repository-code: "https://github.com/Ogoun09gerbad/Holographic-Krylov-Complexity"
 url: "https://github.com/Ogoun09gerbad/Holographic-Krylov-Complexity"
-doi: "TO_BE_REPLACED_AFTER_ZENODO_PUBLICATION"
+doi: "10.5281/zenodo.22675312"
 license: MIT
 version: "1.0.0"
 date-released: "2026-09-09"

@@ -33,8 +33,8 @@ Honest audit performed 2026-09-09, from a clean copy of the source project, befo
 
 ## ACTION REQUIRED (before or shortly after publishing)
 
-1. Replace `REPLACE_WITH_GITHUB_USERNAME` in `README.md`, `CITATION.cff`, and `report/Holographic_Krylov_Complexity_MIORPA_Report.tex` with the actual GitHub username/organization once the repository is created.
-2. Replace `REPLACE_WITH_ZENODO_DOI` / `TO_BE_REPLACED_AFTER_ZENODO_PUBLICATION` in the same three files after the Zenodo archive is minted (see `ZENODO_RELEASE.md`).
+1. ~~Replace `REPLACE_WITH_GITHUB_USERNAME`...~~ **DONE (2026-09-09):** repository is `https://github.com/Ogoun09gerbad/Holographic-Krylov-Complexity`.
+2. ~~Replace `REPLACE_WITH_ZENODO_DOI`...~~ **DONE (2026-09-09):** Zenodo archive of `v1.0.0` is `10.5281/zenodo.22675312`, verified to resolve to this repository's title/author/GitHub URL before insertion.
 3. Add an ORCID to `CITATION.cff` if/when available — none was found in any project file, so none was invented.
 4. Decide whether to keep `figures/ct_example.png` as a static asset with a documented "no reproducing script found" caveat (current state), or write a new small script to regenerate it — the latter was intentionally **not** done here since it would be new code, not recovered code.
-5. Run `git init`, review `git status` for anything unexpected, then make the first commit and tag `v1.0.0` (exact commands in `README.md`/`CHANGELOG.md`).
+5. ~~Run `git init`...~~ **DONE (2026-09-09):** initial commit, `v1.0.0` tag, and push to `origin/main` completed.

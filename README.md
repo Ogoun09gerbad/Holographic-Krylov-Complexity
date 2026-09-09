@@ -2,7 +2,7 @@
 
 Code and data accompanying the MIORPA 2026 research report **"Holographic Krylov Complexity: Charged probes, fixed-charge Routhian reduction, and top-down quiver geometries"** by Géraud Ogounchi Badélé (Mathematical Institute, University of Oxford).
 
-[![DOI](https://img.shields.io/badge/DOI-TO__BE__REPLACED__AFTER__ZENODO__PUBLICATION-blue)](https://doi.org/REPLACE_WITH_ZENODO_DOI)
+[![DOI](https://img.shields.io/badge/DOI-10.5281__zenodo.22675312-blue)](https://doi.org/10.5281/zenodo.22675312)
 
 ## Scientific description
 
@@ -103,7 +103,7 @@ If you use this code, please cite it via the metadata in `CITATION.cff` (GitHub'
   year      = {2026},
   version   = {v1.0.0},
   publisher = {Zenodo},
-  doi       = {REPLACE_WITH_ZENODO_DOI},
+  doi       = {10.5281/zenodo.22675312},
   url       = {https://github.com/Ogoun09gerbad/Holographic-Krylov-Complexity}
 }
 ```
@@ -114,4 +114,4 @@ Released under the [MIT License](LICENSE) — a standard permissive license for 
 
 ## Links
 
-- Zenodo archive: `https://doi.org/REPLACE_WITH_ZENODO_DOI` (placeholder — see `ZENODO_RELEASE.md`)
+- Zenodo archive (v1.0.0): [https://doi.org/10.5281/zenodo.22675312](https://doi.org/10.5281/zenodo.22675312)

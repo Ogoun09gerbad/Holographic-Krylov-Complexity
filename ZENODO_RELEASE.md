@@ -1,5 +1,7 @@
 # Connecting GitHub → Zenodo and minting the DOI
 
+> **STATUS: DONE (2026-09-09).** GitHub repository: `https://github.com/Ogoun09gerbad/Holographic-Krylov-Complexity`. Zenodo archive of the `v1.0.0` release: **`10.5281/zenodo.22675312`** (verified to resolve to this repository's title, author, and GitHub URL before being inserted into `README.md`, `CITATION.cff`, and the report). The steps below are kept as a reference for future releases (e.g. a `v1.1.0` after report revisions).
+
 This repository does not yet have a GitHub URL or a Zenodo DOI — both require manual steps in your own accounts that cannot be performed on your behalf. Follow these steps after the repository has been pushed to GitHub.
 
 ## 1. Create the GitHub repository
