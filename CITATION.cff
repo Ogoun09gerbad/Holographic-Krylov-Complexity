@@ -7,8 +7,8 @@ authors:
     given-names: "Géraud"
     affiliation: "Mathematical Institute, University of Oxford (MIORPA 2026 Participant)"
     # ORCID not found in project files; add here if/when available.
-repository-code: "https://github.com/REPLACE_WITH_GITHUB_USERNAME/Holographic-Krylov-Complexity"
-url: "https://github.com/REPLACE_WITH_GITHUB_USERNAME/Holographic-Krylov-Complexity"
+repository-code: "https://github.com/Ogoun09gerbad/Holographic-Krylov-Complexity"
+url: "https://github.com/Ogoun09gerbad/Holographic-Krylov-Complexity"
 doi: "TO_BE_REPLACED_AFTER_ZENODO_PUBLICATION"
 license: MIT
 version: "1.0.0"

@@ -104,7 +104,7 @@ If you use this code, please cite it via the metadata in `CITATION.cff` (GitHub'
   version   = {v1.0.0},
   publisher = {Zenodo},
   doi       = {REPLACE_WITH_ZENODO_DOI},
-  url       = {https://github.com/REPLACE_WITH_GITHUB_USERNAME/Holographic-Krylov-Complexity}
+  url       = {https://github.com/Ogoun09gerbad/Holographic-Krylov-Complexity}
 }
 ```
 
