@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using the metadata below."
+title: "Holographic-Krylov-Complexity: code for 'Holographic Krylov Complexity: Charged probes, fixed-charge Routhian reduction, and top-down quiver geometries'"
+type: software
+authors:
+  - family-names: "Ogounchi Badélé"
+    given-names: "Géraud"
+    affiliation: "Mathematical Institute, University of Oxford (MIORPA 2026 Participant)"
+    # ORCID not found in project files; add here if/when available.
+repository-code: "https://github.com/REPLACE_WITH_GITHUB_USERNAME/Holographic-Krylov-Complexity"
+url: "https://github.com/REPLACE_WITH_GITHUB_USERNAME/Holographic-Krylov-Complexity"
+doi: "TO_BE_REPLACED_AFTER_ZENODO_PUBLICATION"
+license: MIT
+version: "1.0.0"
+date-released: "2026-09-09"
+keywords:
+  - holography
+  - Krylov complexity
+  - spread complexity
+  - AdS/CFT
+  - six-dimensional SCFT
+  - quiver gauge theory
+  - Routhian reduction
+preferred-citation:
+  type: report
+  title: "Holographic Krylov Complexity: Charged probes, fixed-charge Routhian reduction, and top-down quiver geometries"
+  authors:
+    - family-names: "Ogounchi Badélé"
+      given-names: "Géraud"
+      affiliation: "Mathematical Institute, University of Oxford (MIORPA 2026 Participant)"
+  year: 2026
+  month: 9

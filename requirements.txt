@@ -1,0 +1,10 @@
+# Verified working combination (2026-09-09) under Python 3.14.7.
+# The project was originally developed under Python 3.11.9; any
+# Python >=3.10 should work with these package versions or newer.
+numpy==2.5.2
+scipy==1.18.0
+sympy==1.14.0
+matplotlib==3.11.1
+
+# For notebooks/Notebook_Krylov_Final.ipynb:
+jupyter>=1.0.0

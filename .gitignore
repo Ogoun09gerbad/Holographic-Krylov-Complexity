@@ -1,0 +1,37 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+krylov_env/
+*.egg-info/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- LaTeX build artifacts ---
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.run.xml
+*.synctex.gz
+*.nav
+*.snm
+
+# --- OS / editor metadata ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- scratch / temporary ---
+*.tmp
+*.bak
+compile*.log
