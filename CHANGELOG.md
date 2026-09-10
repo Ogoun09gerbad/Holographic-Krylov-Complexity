@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.1] — 2026-09-10
+
+Patch release: figure-rendering robustness fix, no scientific content changed.
+
+### Fixed
+- `report/Holographic_Krylov_Complexity_MIORPA_Report.tex`: removed the `\IfFileExists{...}{\includegraphics{...}}{\fbox{Figure to be inserted}}` fallback used for all eight figures and replaced it with direct `\includegraphics` calls, since every referenced image is present in the repository. The fallback could silently render as a placeholder box in some compilation environments (e.g. a different working directory) even though the figures existed.
+- Fixed `\graphicspath`: the entries for `quiver_comparison/figures/` and `blackstring_quiver/figures/` used `../../` (two directories up) instead of `../` (one directory up), inconsistent with the sibling entries for `figures/` and `ads3/` and with the repository's actual layout.
+- Recompiled the report PDF.
+
 ## [1.0.0] — 2026-09-09
 
 First public release, corresponding exactly to the version of the report submitted for MIORPA 2026.
